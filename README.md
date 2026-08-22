@@ -4,3 +4,7 @@
 **Today's Work:**
 Five problem statements were completed and executed today.
 Prime , Triangle Pattern , Palindrome , Greatest Common Divisor , Armstrong
+
+**Next Session Plan:**
+
+**Issues Faced:**
